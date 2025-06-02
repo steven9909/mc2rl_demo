@@ -41,4 +41,5 @@
 Fix temporal consistency issues:
  - Color consistency across frames
  - Gaussian filtering in temporal domain
- - Conditioned training on previous frames 
+ - Conditioned training on previous frames
+ - Optical flow
