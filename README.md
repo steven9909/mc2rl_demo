@@ -34,6 +34,8 @@
   </tr>
 </table>
 
+### 📊 SSIM Score (↓ Higher is Better)
+
 ### TODO
 
 Fix temporal consistency issues:
