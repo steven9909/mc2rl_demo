@@ -33,3 +33,10 @@
     <td>108.64</td>
   </tr>
 </table>
+
+### TODO
+
+Fix temporal consistency issues:
+ - Color consistency across frames
+ - Gaussian filtering in temporal domain
+ - Conditioned training on previous frames 
