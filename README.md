@@ -34,7 +34,24 @@
   </tr>
 </table>
 
-### 📊 SSIM Score (↓ Higher is Better)
+### 📊 Mean SSIM Score (↑ Higher is Better)
+
+> *Structual Similiarity Index (SSIM) computed against subsequent frames. Higher scores indicate higher perceptual similarity inbetween frames.*
+
+<table>
+  <tr>
+    <th>Input</th>
+    <th>CUT + Dataset Augmentation</th>
+    <th>CUT + Cycle</th>
+    <th>CUT + Cycle (Low λ)</th>
+  </tr>
+  <tr>
+    <td>0.329</td>
+    <td>0.228</td>
+    <td>0.236</td>
+    <td>0.245</td>
+  </tr>
+</table>
 
 ### TODO
 
